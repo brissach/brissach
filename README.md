@@ -1,12 +1,14 @@
 ### Hi there 👋
 
 
-![](https://github.com/Clouke/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Clouke/github-stats/blob/master/generated/languages.svg)
+![](https://komarev.com/ghpvc/?username=Clouke&color=ff69b4)
 <!--
 **Clouke/Clouke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+![](https://github.com/Clouke/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/Clouke/github-stats/blob/master/generated/languages.svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
