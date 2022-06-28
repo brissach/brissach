@@ -2,6 +2,8 @@
 
 
 ![](https://komarev.com/ghpvc/?username=Clouke&color=ff69b4)
+
+:key: GPG key: [`F8E9ECB442728AF3D`](https://github.com/Clouke.gpg)
 <!--
 **Clouke/Clouke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
