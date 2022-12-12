@@ -11,5 +11,5 @@
 
 :key: GPG key: [`F8E9ECB442728AF3D`](https://github.com/Clouke.gpg)
 
-![](https://github.com/Clouke/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Clouke/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/Clouke/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+<!--![](https://github.com/Clouke/github-stats/blob/master/generated/languages.svg)-->
