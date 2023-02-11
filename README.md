@@ -4,7 +4,7 @@
 <a href="https://github.com/Clouke" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=Clouke&color=ff69b4" alt="Views" /></a>  
 </p>
 
-Software developer with an interest in Artificial Intelligence and code optimization. With years of experience in Java programming, I am currently developing AI frameworks and libraries, anticheats, and making code improvements.
+Software developer with an interest in Artificial Intelligence and code optimization. With years of experience in Java programming, I am currently developing AI frameworks and libraries, anticheats, networking, and making code improvements.
 
 Founder of [Acai Software](https://github.com/AcaiSoftware), whereas we bring innovative AI solutions to various industries.
 
