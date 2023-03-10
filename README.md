@@ -1,6 +1,5 @@
 <p align="center"> <h1 align="center"> Clouke </h1> </p>
 <p align="center">
-<a href="https://twitter.com/hidden1337" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1" alt="Clouke" /></a>
 <a href="https://github.com/Clouke" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=Clouke&color=ff69b4" alt="Views" /></a>  
 </p>
 
