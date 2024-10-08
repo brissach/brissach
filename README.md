@@ -8,7 +8,7 @@
 
 Experienced Java software developer with a strong focus on Machine Learning and Artificial Intelligence, as well as expertise in code optimization. Over the years, I have expanded my range to include developing AI frameworks and libraries, creating anticheat solutions, implementing networking solutions (including packeting), and working on backend systems and APIs. Additionally, I am proficient in various technologies such as Spring Boot, MongoDB, Redis, and SQL.
 
-Founder of [Acai Software](https://github.com/AcaiSoftware), whereas we bring innovative AI solutions to digital products.
+Founder of [Arctis Studios](https://github.com/AcaiSoftware), whereas we bring innovative AI solutions to digital products.
 
 <!--### Hi there 👋-->
 <!--![Alt Text](https://media.tenor.com/LYftKBBe2csAAAAi/earth-planet.gif)-->
