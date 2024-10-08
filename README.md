@@ -1,6 +1,6 @@
 <p align="center"> <h1 align="center"> Brissach </h1> </p>
 <p align="center">
-<a href="https://github.com/Clouke" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=Clouke&color=fc0345" alt="Views" /></a>  
+<a href="https://github.com/Clouke" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=brissach&color=fc0345" alt="Views" /></a>  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F78E29&width=435&lines=Java+Software+Developer;Machine+Learning+Enthusiast;Language+Modelling;Research+%26+Solutions;Anticheats+with+Machine+Learning;Data+Analytics)](https://git.io/typing-svg)
 
