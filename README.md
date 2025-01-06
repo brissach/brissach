@@ -16,13 +16,25 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F78E29&width=435&lines=Java+Software+Developer;Machine+Learning+Enthusiast;Language+Modelling;Research+%26+Solutions;Anticheats+with+Machine+Learning;Data+Analytics)](https://git.io/typing-svg)
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=3463AD&width=435&lines=Java+Software+Developer;Machine+Learning+Enthusiast;Language+Modelling;Research+%26+Solutions;Anticheats+with+Machine+Learning;Data+Analytics)](https://git.io/typing-svg)
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=3463AD&width=435&lines=Java+Software+Developer;Machine+Learning+Enthusiast;Language+Modelling;Research+%26+Solutions;Anticheats+with+Machine+Learning;Data+Analytics" alt="Typing SVG">
+  </a>
+</p>
+-->
+
+<p align="center">Proficient <b>Java</b> Software Developer with strong focus on <b>Machine Learning</b> & <b>Artificial Intelligence</b></p>
+<p align="center">Scaling ━ Cloud Compute ━ API </p>
 
 </p>
 
-Experienced Java software developer with a strong focus on Machine Learning and Artificial Intelligence, as well as expertise in code optimization. Over the years, I have expanded my range to include developing AI frameworks and libraries, creating anticheat solutions, implementing networking solutions (including packeting), and working on backend systems and APIs. Additionally, I am proficient in various technologies such as Spring Boot, MongoDB, Redis, and SQL.
-
-Founder of [Arctis Studios](https://github.com/AcaiSoftware), whereas we bring innovative AI solutions to digital products.
+<p align="center">
+  Founder of <a href="https://github.com/acaisoftware" target="_blank">Arctis Studios</a> ━ Employing artificial intelligence to combat fraudulent behaviour in online services
+</p>
 
 <!--### Hi there 👋-->
 <!--![Alt Text](https://media.tenor.com/LYftKBBe2csAAAAi/earth-planet.gif)-->
@@ -46,11 +58,17 @@ Founder of [Arctis Studios](https://github.com/AcaiSoftware), whereas we bring i
 -->
 
 
-:key: GPG key: [`F8E9ECB442728AF3D`](https://github.com/Clouke.gpg)
 <p align="center">
-  <a href="https://github.com/Clouke" target="_blank"><img align="center" src="https://github.com/Clouke/github-stats/blob/master/generated/overview.svg#gh-dark-mode-on" alt="Stats" /></a>
-  <a href="https://github.com/Clouke" target="_blank"><img align="center" src="https://github.com/Clouke/github-stats/blob/master/generated/languages.svg" alt="Languages" /></a>
+  :key: GPG key: <a href="https://github.com/brissach.gpg" target="_blank">F8E9ECB442728AF3D</a>
 </p>
+
+<!--
+:key: GPG key: [`F8E9ECB442728AF3D`](https://github.com/brissach.gpg)
+<p align="center">
+  <a href="https://github.com/Clouke" target="_blank"><img align="center" src="https://github.com/brissach/github-stats/blob/master/generated/overview.svg#gh-dark-mode-on" alt="Stats" /></a>
+  <a href="https://github.com/Clouke" target="_blank"><img align="center" src="https://github.com/brissach/github-stats/blob/master/generated/languages.svg" alt="Languages" /></a>
+</p>
+-->
 
 <!--
 ![](https://github.com/Clouke/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
